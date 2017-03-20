@@ -13,5 +13,7 @@ public class NumeroConsecutivo {
         n2 = leitor.nextInt();
      pn1 = n1+1;
         System.out.println("O número consecutivo ao primeiro número digitado é: " + pn1);
+     pn2 = n2+1;
+        System.out.println("O número consecutivo ao segundo número digitado é: " + pn2);
   }
 }
